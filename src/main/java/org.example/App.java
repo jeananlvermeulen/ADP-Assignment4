@@ -2,7 +2,7 @@ package org.example;
 import java.util.*;
 
 /**
- * Jeanan Vermeulen
+ * Jéanan Vermeulen
  * Assignment 4
  */
 
@@ -95,7 +95,9 @@ public class App {
         System.out.println("_____________________________________________________________________________________________________");
         System.out.printf("%nsize: %d%nisEmpty: %b%n", map.size(), map.isEmpty());
 
-        System.out.println("_____________________________________________________________________________________________________");
-
+        System.out.println("_______________________________________________________________________________________________________");
+        System.out.println("assignment complete");
     }
+
 }
+
